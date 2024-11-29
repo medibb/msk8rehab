@@ -1,11 +1,126 @@
 ---
-title: "msk8rehab"
+title: "Jaehyun Lee"
+image: image/profile.png
+about: 
+  template: trestles
+  links:
+    - icon: google
+      href: https://scholar.google.com/citations?user=dwcmkTsAAAAJ&hl=ko
+    - icon: hospital
+      href: https://pnuh.or.kr/pnuh/medical/doctor-info.do?tCode=RM&dno=103486
+    - icon: github
+      href: https://github.com/medibb
+    # - icon: linkedin
+    #   href: https://linkedin.com/in/jaehyun-lee-34246ab2
+    - icon: ORCiD
+      text: ORCiD
+      href: https://orcid.org/0000-0002-4927-9722
+    - icon: twitter
+      href: https://twitter.com/msk8rehab
+    # - icon: instagram
+    #   href: https://www.instagram.com/msk8rehab
 ---
 
-This is a Quarto website.
+> Hi!, I'm Jaehyun Lee
+>
+> I have been working in the Rehabilitative medicine field for 14 years, specializing in musculoskeletal rehabilitation.
+>
+> I aspire to share knowledge, ideas, and life experiences with others and inspire one another.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Jaehyun Lee M.D., Korean board-certified physiatrist**
 
-```{r}
-1 + 1
-```
+**Clinical Assistant Professor**, Pusan National University Hospital, Busan, South Korea
+
+Email: mskrehab\@kakao.com
+
+## Clinical Expertise
+
+**Musculoskeletal Rehabilitation**: Specializing in the rehabilitation of musculoskeletal conditions, focusing on restoring function and alleviating pain.
+
+-   **Spine, Joints, and Adjacent Weight-Bearing Soft Tissues**: Expertise in the management and treatment of spine and joint disorders, including the surrounding soft tissues that bear weight.
+
+-   **Ultrasound & Fluoroscopy-Guided Interventions**: Proficient in performing minimally invasive procedures using ultrasound and fluoroscopy guidance for precise diagnosis and treatment.
+
+-   **Therapeutic Exercise Education**: Skilled in designing and implementing therapeutic exercise programs tailored to individual patient needs, promoting recovery and long-term health.
+
+## Professional Training and Education
+
+### Fellowship
+
+-   **Seoul National University Hospital** - Seoul, Korea\
+    Clinical Fellow in Musculoskeletal Rehabilitation Medicine\
+
+### Residency
+
+-   **Kosin University Gospel Hospital** - Busan, Korea\
+    Resident Physician in Rehabilitation Medicine\
+
+### Education
+
+-   **Pukyeong National University** - Busan, Korea\
+    Ph.D. Candidate in Artificial Intelligence Convergence\
+
+-   **Kosin University** **College of Medicine** - Busan, Korea\
+    Doctor of Medicine (M.D.)\
+
+## Hospital Appointments
+
+2024-present: **Clinical Assistant Professor**, Pusan National University Hospital, Busan, South Korea
+
+-   2024.09.01-present: **Adjunct Professor** in the Public Health Collaboration Team
+
+2020-2023: **Assistant Professor**, Kosin University Gospel Hospital, Busan, South Korea
+
+2018-2019: **Clinical Fellow**, Seoul National University Hospital, Seoul, South Korea
+
+-   2018-2019: **Attending Physician** in the Seoul National University Healthcare System Gangnam Center
+
+## Faculty Appointments
+
+2020-2023: **Assistant Professor**, Kosin University College of Medicine, Busan, South Korea
+
+-   2022-2023: **Supervising Professor** at Student Internship Program in Rehabilitation Medicine
+
+-   2022-2023: **Course Coordinator** at Clinical Practicum in Rehabilitation Medicine
+
+-   2020-2023: **Evaluator** at CPX Internal Special Lecture Program
+
+## Society and Association Appointments
+
+2024-present: **Exclusive Reviewer (Consultant)**, The National Health Information Portal
+
+2022-present: **Education Committee Member**, Korean Academy of Neuro-Musculoskeletal Sonography
+
+2022-present: **Clinical Practice Guideline Steering Committee Member**, Korean Academy of Rehabilitation Medicine
+
+2022-2023: **Planning Committee Member**, The Korean Pain Research Society
+
+2019-2023: **Academic Committee Member**, Korean Association of Pain Medicine
+
+2018-2019: **Advisor**, Korean Association of Public Health Doctors
+
+2017-2018: **Central Director**, Korean Medical Association
+
+2017-2018: **Representative Assembly Member**, Korean Medical Association
+
+2017-2018: **Vice President**, Korean Association of Public Health Doctors
+
+## Professional Society Affiliations
+
+2022-present: International Society of Physical & Rehabilitation Medicine
+
+2022-present: The Korean Pain Research Society
+
+2019-present: Korean Society of Artificial Intelligence in Medicine
+
+2018-present: Korean Academy of Neuro-Musculoskeletal Sonography
+
+2018-present: The Korean Society of Sports Medicine
+
+2018-present: Korean Association of Pain Medicine
+
+2011-present: Korean Academy of Rehabilitation Medicine
+
+2015-2018: Korean Association of Public Health Doctors
+
+2010-present: Korean Medical Association

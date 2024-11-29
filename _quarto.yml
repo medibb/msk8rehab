@@ -3,18 +3,67 @@ project:
   output-dir: docs
 
 website:
-  title: "msk8rehab"
+  title: "Jaehyun Lee MD"
   navbar:
+    brand:
+      href: index.qmd
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: 운동프로토콜/PA업무
+        materials.qmd
+      - icon: pencil
+        text: Blog
+        href: 04blog.qmd
+      - icon: book-half
+        text: Education
+        href: 05patiEdu.qmd
+
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: true
+    theme:
+      name: readable
+      primary_color: "#2980b9"
+      secondary_color: "#3498db"
+      font: Arial, sans-serif
 
 format:
   html:
-    theme: cosmo
+    theme: Zephyr
     css: styles.css
     toc: true
 
 editor: visual
+
+script:
+  head: |
+    <style>
+      /* 스타일링을 위한 CSS 스타일 시트 */
+
+      /* 예시: 네비게이션 바 배경색 변경 */
+      .navbar {
+        background-color: #f8f9fa;
+      }
+
+      /* 예시: 목차 스타일 변경 */
+      .toc {
+        background-color: #f1f1f1;
+        padding: 10px;
+      }
+
+      .toc h2 {
+        color: #333;
+      }
+
+      .toc ul {
+        list-style-type: none;
+        padding-left: 0;
+      }
+
+      .toc ul li {
+        margin-bottom: 5px;
+      }
+    </style>
 
