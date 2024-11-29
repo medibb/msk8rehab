@@ -1,5 +1,5 @@
 ---
-title: "Jaehyun Lee"
+title: "부산대병원 재활의학과 이재현"
 image: image/profile.png
 about: 
   template: trestles

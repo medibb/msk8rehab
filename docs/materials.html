@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>부산대병원 재활의학과 이재현 – Jaehyun Lee MD</title>
+<title>근골격재활프로토콜 – Jaehyun Lee MD</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,9 +30,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -65,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -73,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
@@ -88,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./materials.html"> 
+    <a class="nav-link active" href="./materials.html" aria-current="page"> 
 <span class="menu-text">근골격재활프로토콜</span></a>
   </li>  
   <li class="nav-item">
@@ -109,161 +170,102 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">근골격재활프로토콜</h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta column-page-left">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#clinical-expertise" id="toc-clinical-expertise" class="nav-link active" data-scroll-target="#clinical-expertise">Clinical Expertise</a></li>
-  <li><a href="#professional-training-and-education" id="toc-professional-training-and-education" class="nav-link" data-scroll-target="#professional-training-and-education">Professional Training and Education</a>
-  <ul class="collapse">
-  <li><a href="#fellowship" id="toc-fellowship" class="nav-link" data-scroll-target="#fellowship">Fellowship</a></li>
-  <li><a href="#residency" id="toc-residency" class="nav-link" data-scroll-target="#residency">Residency</a></li>
-  <li><a href="#education" id="toc-education" class="nav-link" data-scroll-target="#education">Education</a></li>
-  </ul></li>
-  <li><a href="#hospital-appointments" id="toc-hospital-appointments" class="nav-link" data-scroll-target="#hospital-appointments">Hospital Appointments</a></li>
-  <li><a href="#faculty-appointments" id="toc-faculty-appointments" class="nav-link" data-scroll-target="#faculty-appointments">Faculty Appointments</a></li>
-  <li><a href="#society-and-association-appointments" id="toc-society-and-association-appointments" class="nav-link" data-scroll-target="#society-and-association-appointments">Society and Association Appointments</a></li>
-  <li><a href="#professional-society-affiliations" id="toc-professional-society-affiliations" class="nav-link" data-scroll-target="#professional-society-affiliations">Professional Society Affiliations</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="image/profile.png" class="about-image
-  rounded " style="width: 20em;">
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">부산대병원 재활의학과 이재현</h1>
-</div>
-<div class="quarto-title-meta">
-  </div>
-</header>
-    <div class="about-links">
-  <a href="https://scholar.google.com/citations?user=dwcmkTsAAAAJ&amp;hl=ko" class="about-link" rel="" target="">
-    <i class="bi bi-google"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://pnuh.or.kr/pnuh/medical/doctor-info.do?tCode=RM&amp;dno=103486" class="about-link" rel="" target="">
-    <i class="bi bi-hospital"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://github.com/medibb" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text"></span>
-  </a>
-  <a href="https://orcid.org/0000-0002-4927-9722" class="about-link" rel="" target="">
-    <i class="bi bi-ORCiD"></i>
-     <span class="about-link-text">ORCiD</span>
-  </a>
-  <a href="https://twitter.com/msk8rehab" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text"></span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-
-<blockquote class="blockquote">
-<p>Hi!, I’m Jaehyun Lee</p>
-<p>I have been working in the Rehabilitative medicine field for 14 years, specializing in musculoskeletal rehabilitation.</p>
-<p>I aspire to share knowledge, ideas, and life experiences with others and inspire one another.</p>
-</blockquote>
-<p><strong>Jaehyun Lee M.D., Korean board-certified physiatrist</strong></p>
-<p><strong>Clinical Assistant Professor</strong>, Pusan National University Hospital, Busan, South Korea</p>
-<p>Email: mskrehab@kakao.com</p>
-<section id="clinical-expertise" class="level2">
-<h2 data-anchor-id="clinical-expertise">Clinical Expertise</h2>
-<p><strong>Musculoskeletal Rehabilitation</strong>: Specializing in the rehabilitation of musculoskeletal conditions, focusing on restoring function and alleviating pain.</p>
-<ul>
-<li><p><strong>Spine, Joints, and Adjacent Weight-Bearing Soft Tissues</strong>: Expertise in the management and treatment of spine and joint disorders, including the surrounding soft tissues that bear weight.</p></li>
-<li><p><strong>Ultrasound &amp; Fluoroscopy-Guided Interventions</strong>: Proficient in performing minimally invasive procedures using ultrasound and fluoroscopy guidance for precise diagnosis and treatment.</p></li>
-<li><p><strong>Therapeutic Exercise Education</strong>: Skilled in designing and implementing therapeutic exercise programs tailored to individual patient needs, promoting recovery and long-term health.</p></li>
-</ul>
-</section>
-<section id="professional-training-and-education" class="level2">
-<h2 data-anchor-id="professional-training-and-education">Professional Training and Education</h2>
-<section id="fellowship" class="level3">
-<h3 data-anchor-id="fellowship">Fellowship</h3>
-<ul>
-<li><strong>Seoul National University Hospital</strong> - Seoul, Korea<br>
-Clinical Fellow in Musculoskeletal Rehabilitation Medicine<br>
-</li>
-</ul>
-</section>
-<section id="residency" class="level3">
-<h3 data-anchor-id="residency">Residency</h3>
-<ul>
-<li><strong>Kosin University Gospel Hospital</strong> - Busan, Korea<br>
-Resident Physician in Rehabilitation Medicine<br>
-</li>
-</ul>
-</section>
-<section id="education" class="level3">
-<h3 data-anchor-id="education">Education</h3>
-<ul>
-<li><p><strong>Pukyeong National University</strong> - Busan, Korea<br>
-Ph.D.&nbsp;Candidate in Artificial Intelligence Convergence<br>
-</p></li>
-<li><p><strong>Kosin University</strong> <strong>College of Medicine</strong> - Busan, Korea<br>
-Doctor of Medicine (M.D.)<br>
-</p></li>
-</ul>
-</section>
-</section>
-<section id="hospital-appointments" class="level2">
-<h2 data-anchor-id="hospital-appointments">Hospital Appointments</h2>
-<p>2024-present: <strong>Clinical Assistant Professor</strong>, Pusan National University Hospital, Busan, South Korea</p>
-<ul>
-<li>2024.09.01-present: <strong>Adjunct Professor</strong> in the Public Health Collaboration Team</li>
-</ul>
-<p>2020-2023: <strong>Assistant Professor</strong>, Kosin University Gospel Hospital, Busan, South Korea</p>
-<p>2018-2019: <strong>Clinical Fellow</strong>, Seoul National University Hospital, Seoul, South Korea</p>
-<ul>
-<li>2018-2019: <strong>Attending Physician</strong> in the Seoul National University Healthcare System Gangnam Center</li>
-</ul>
-</section>
-<section id="faculty-appointments" class="level2">
-<h2 data-anchor-id="faculty-appointments">Faculty Appointments</h2>
-<p>2020-2023: <strong>Assistant Professor</strong>, Kosin University College of Medicine, Busan, South Korea</p>
-<ul>
-<li><p>2022-2023: <strong>Supervising Professor</strong> at Student Internship Program in Rehabilitation Medicine</p></li>
-<li><p>2022-2023: <strong>Course Coordinator</strong> at Clinical Practicum in Rehabilitation Medicine</p></li>
-<li><p>2020-2023: <strong>Evaluator</strong> at CPX Internal Special Lecture Program</p></li>
-</ul>
-</section>
-<section id="society-and-association-appointments" class="level2">
-<h2 data-anchor-id="society-and-association-appointments">Society and Association Appointments</h2>
-<p>2024-present: <strong>Exclusive Reviewer (Consultant)</strong>, The National Health Information Portal</p>
-<p>2022-present: <strong>Education Committee Member</strong>, Korean Academy of Neuro-Musculoskeletal Sonography</p>
-<p>2022-present: <strong>Clinical Practice Guideline Steering Committee Member</strong>, Korean Academy of Rehabilitation Medicine</p>
-<p>2022-2023: <strong>Planning Committee Member</strong>, The Korean Pain Research Society</p>
-<p>2019-2023: <strong>Academic Committee Member</strong>, Korean Association of Pain Medicine</p>
-<p>2018-2019: <strong>Advisor</strong>, Korean Association of Public Health Doctors</p>
-<p>2017-2018: <strong>Central Director</strong>, Korean Medical Association</p>
-<p>2017-2018: <strong>Representative Assembly Member</strong>, Korean Medical Association</p>
-<p>2017-2018: <strong>Vice President</strong>, Korean Association of Public Health Doctors</p>
-</section>
-<section id="professional-society-affiliations" class="level2">
-<h2 data-anchor-id="professional-society-affiliations">Professional Society Affiliations</h2>
-<p>2022-present: International Society of Physical &amp; Rehabilitation Medicine</p>
-<p>2022-present: The Korean Pain Research Society</p>
-<p>2019-present: Korean Society of Artificial Intelligence in Medicine</p>
-<p>2018-present: Korean Academy of Neuro-Musculoskeletal Sonography</p>
-<p>2018-present: The Korean Society of Sports Medicine</p>
-<p>2018-present: Korean Association of Pain Medicine</p>
-<p>2011-present: Korean Academy of Rehabilitation Medicine</p>
-<p>2015-2018: Korean Association of Public Health Doctors</p>
-<p>2010-present: Korean Medical Association</p>
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
-</section>
-</main></div>
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1732060800000" data-listing-file-modified-sort="1732917700055" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="13" data-listing-word-count-sort="2577">
+<div class="thumbnail">
+<p><a href="./materials/PA/PA.html" class="no-external"></a></p><a href="./materials/PA/PA.html" class="no-external">
+<p class="card-img-top"><img src="materials/PA/PAschedule.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./materials/PA/PA.html" class="no-external"></a></p>
 </div>
- <!-- /main -->
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/PA/PA.html" class="no-external">2024 PA 업무자료</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/PA/PA.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./materials/PA/PA.html" class="no-external">연락처</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./materials/PA/PA.html" class="no-external">
+<div class="listing-date">
+Nov 20, 2024
+</div>
+<div class="listing-author">
+재활의학과 이재현
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1716163200000" data-listing-file-modified-sort="1732917460999" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="12" data-listing-word-count-sort="2218">
+<div class="thumbnail">
+<p><a href="./materials/PT/PT.html" class="no-external"></a></p><a href="./materials/PT/PT.html" class="no-external">
+<p class="card-img-top"><img src="materials/PT/PT_exercise/1_1_lordosis.png"  class="thumbnail-image card-img"/></p>
+</a><p><a href="./materials/PT/PT.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/PT/PT.html" class="no-external">2024 PT실 운동교육자료</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/PT/PT.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./materials/PT/PT.html" class="no-external">목표: 요추안정화, 요추 운동조절능력 향상</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./materials/PT/PT.html" class="no-external">
+<div class="listing-date">
+May 20, 2024
+</div>
+<div class="listing-author">
+재활의학과 조교수 이재현
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -284,6 +286,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
