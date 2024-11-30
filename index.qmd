@@ -1,5 +1,5 @@
 ---
-title: "재활의학과 이재현"
+title: "이재현"
 image: image/profile.png
 about: 
   template: trestles
@@ -21,19 +21,16 @@ about:
     #   href: https://www.instagram.com/msk8rehab
 ---
 
-> 안녕하세요
-> 부산대학교병원 재활의학과 조교수 이재현입니다.
-> 환자분들에게 도움이되는 근골격계 재활운동 방법을 소개하고 있습니다.
+## **이재현 (Jaehyun Lee, M.D.), 재활의학과 전문의**
 
-
-## **이재현 (Jaehyun Lee, M.D.)**
-
-재활의학과 전문의
-
-임상조교수, 부산대학교병원 (Pusan National University Hospital), 부산, 대한민국
+**임상조교수**, 부산대학교병원, 부산, 대한민국
 
 이메일: mskrehab@kakao.com
 
+
+> 안녕하세요
+> **부산대학교병원 재활의학과 조교수 이재현**입니다.
+> 환자분들에게 도움이되는 근골격계 재활운동 방법을 소개하고 있습니다.
 
 
 ## 임상 전문 분야  
