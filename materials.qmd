@@ -1,5 +1,5 @@
 ---
-title: "근골격재활프로토콜"
+title: "부산대병원 근골격재활 프로토콜"
 listing:
   contents: materials
   sort: "date desc"

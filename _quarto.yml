@@ -10,9 +10,6 @@ website:
     left:
       - text: 근골격재활프로토콜
         href: materials.qmd
-      - icon: pencil
-        text: 블로그
-        href: 04blog.qmd
       - icon: book-half
         text: 외래운동교육
         href: 05patiEdu.qmd

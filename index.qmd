@@ -1,5 +1,5 @@
 ---
-title: "부산대병원 재활의학과 이재현"
+title: "재활의학과 이재현"
 image: image/profile.png
 about: 
   template: trestles
@@ -21,106 +21,84 @@ about:
     #   href: https://www.instagram.com/msk8rehab
 ---
 
-> Hi!, I'm Jaehyun Lee
->
-> I have been working in the Rehabilitative medicine field for 14 years, specializing in musculoskeletal rehabilitation.
->
-> I aspire to share knowledge, ideas, and life experiences with others and inspire one another.
+> 안녕하세요
+> 부산대학교병원 재활의학과 조교수 이재현입니다.
+> 환자분들에게 도움이되는 근골격계 재활운동 방법을 소개하고 있습니다.
 
-**Jaehyun Lee M.D., Korean board-certified physiatrist**
 
-**Clinical Assistant Professor**, Pusan National University Hospital, Busan, South Korea
+## **이재현 (Jaehyun Lee, M.D.)**
 
-Email: mskrehab\@kakao.com
+재활의학과 전문의
 
-## Clinical Expertise
+임상조교수, 부산대학교병원 (Pusan National University Hospital), 부산, 대한민국
 
-**Musculoskeletal Rehabilitation**: Specializing in the rehabilitation of musculoskeletal conditions, focusing on restoring function and alleviating pain.
+이메일: mskrehab@kakao.com
 
--   **Spine, Joints, and Adjacent Weight-Bearing Soft Tissues**: Expertise in the management and treatment of spine and joint disorders, including the surrounding soft tissues that bear weight.
 
--   **Ultrasound & Fluoroscopy-Guided Interventions**: Proficient in performing minimally invasive procedures using ultrasound and fluoroscopy guidance for precise diagnosis and treatment.
 
--   **Therapeutic Exercise Education**: Skilled in designing and implementing therapeutic exercise programs tailored to individual patient needs, promoting recovery and long-term health.
+## 임상 전문 분야  
 
-## Professional Training and Education
+### **근골격계 재활**  
+근골격계 질환의 재활 치료에 중점을 두며 기능 회복과 통증 완화를 목표로 합니다.  
 
-### Fellowship
+- **척추, 관절 및 인접 체중 부하 연조직 재활치료 **: 척추 및 관절 질환, 그리고 체중을 지탱하는 주변 연조직의 전문적인 치료  
+- **초음파 및 투시장치 유도 시술**: 초음파와 투시장치를 이용한 정밀 진단 및 치료를 위한 최소 침습적 시술
+- **치료 운동 교육**: 환자 개개인의 필요에 맞춘 치료 운동 프로그램 설계 및 구현, 회복 및 장기적인 건강 증진을 도모.
 
--   **Seoul National University Hospital** - Seoul, Korea\
-    Clinical Fellow in Musculoskeletal Rehabilitation Medicine\
 
-### Residency
+## 
+## 전문 교육 및 학력  
 
--   **Kosin University Gospel Hospital** - Busan, Korea\
-    Resident Physician in Rehabilitation Medicine\
+### **펠로우십**  
+- **서울대학교병원** - 서울, 대한민국  
+  근골격계 재활의학 펠로우  
 
-### Education
+### **레지던트**  
+- **고신대학교 복음병원** - 부산, 대한민국  
+  재활의학과 레지던트  
 
--   **Pukyeong National University** - Busan, Korea\
-    Ph.D. Candidate in Artificial Intelligence Convergence\
+### **학력**  
+- **부경대학교** - 부산, 대한민국  
+  인공지능융합학 박사수료  
 
--   **Kosin University** **College of Medicine** - Busan, Korea\
-    Doctor of Medicine (M.D.)\
+- **고신대학교 의과대학** - 부산, 대한민국  
+  의학사 (M.D.)  
 
-## Hospital Appointments
 
-2024-present: **Clinical Assistant Professor**, Pusan National University Hospital, Busan, South Korea
+## 병원 경력  
 
--   2024.09.01-present: **Adjunct Professor** in the Public Health Collaboration Team
+- **2024-현재**: 임상조교수, 부산대학교병원, 부산, 대한민국  
+  - **2024.09.01-현재**: 공공보건협력팀 겸임교수 
+- **2020-2023**: 조교수, 고신대학교 복음병원, 부산, 대한민국  
 
-2020-2023: **Assistant Professor**, Kosin University Gospel Hospital, Busan, South Korea
+- **2018-2019**: 임상 펠로우, 서울대학교병원, 서울, 대한민국  
+  - **2018-2019**: 강남센터 소속 진료의  
 
-2018-2019: **Clinical Fellow**, Seoul National University Hospital, Seoul, South Korea
+## 대학 경력  
 
--   2018-2019: **Attending Physician** in the Seoul National University Healthcare System Gangnam Center
+- **2020-2023**: 조교수, 고신대학교 의과대학, 부산, 대한민국  
+  - **2022-2023**: 재활의학과 학생 인턴십 프로그램 지도교수  
+  - **2022-2023**: 재활의학 임상실습 교과목 책임교수  
+  - **2020-2023**: CPX 내부 특별강의 프로그램 평가자  
 
-## Faculty Appointments
 
-2020-2023: **Assistant Professor**, Kosin University College of Medicine, Busan, South Korea
+## 학회 및 협회 활동  
 
--   2022-2023: **Supervising Professor** at Student Internship Program in Rehabilitation Medicine
+- **2024-현재**: 국가건강정보포털 전담 심사위원 
+- **2022-현재**: 대한신경근골격초음파학회 교육위원  
+- **2022-현재**: 대한재활의학회 임상진료지침위원회 운영위원  
+- **2022-2023**: 대한통증연구학회 기획위원  
+- **2019-2023**: 대한통증학회 학술위원  
+- **2018-2019**: 대한공중보건의사협의회 자문위원 - **2017-2018**: 대한의사협회 중앙이사 및 대의원회 의원  
+- **2017-2018**: 대한공중보건의사협의회 부회장  
 
--   2022-2023: **Course Coordinator** at Clinical Practicum in Rehabilitation Medicine
+## 전문 학회 가입  
 
--   2020-2023: **Evaluator** at CPX Internal Special Lecture Program
-
-## Society and Association Appointments
-
-2024-present: **Exclusive Reviewer (Consultant)**, The National Health Information Portal
-
-2022-present: **Education Committee Member**, Korean Academy of Neuro-Musculoskeletal Sonography
-
-2022-present: **Clinical Practice Guideline Steering Committee Member**, Korean Academy of Rehabilitation Medicine
-
-2022-2023: **Planning Committee Member**, The Korean Pain Research Society
-
-2019-2023: **Academic Committee Member**, Korean Association of Pain Medicine
-
-2018-2019: **Advisor**, Korean Association of Public Health Doctors
-
-2017-2018: **Central Director**, Korean Medical Association
-
-2017-2018: **Representative Assembly Member**, Korean Medical Association
-
-2017-2018: **Vice President**, Korean Association of Public Health Doctors
-
-## Professional Society Affiliations
-
-2022-present: International Society of Physical & Rehabilitation Medicine
-
-2022-present: The Korean Pain Research Society
-
-2019-present: Korean Society of Artificial Intelligence in Medicine
-
-2018-present: Korean Academy of Neuro-Musculoskeletal Sonography
-
-2018-present: The Korean Society of Sports Medicine
-
-2018-present: Korean Association of Pain Medicine
-
-2011-present: Korean Academy of Rehabilitation Medicine
-
-2015-2018: Korean Association of Public Health Doctors
-
-2010-present: Korean Medical Association
+- **2022-현재**: 국제재활의학회 (ISPRM)  
+- **2022-현재**: 대한통증연구학회  
+- **2019-현재**: 대한의료인공지능학회  
+- **2018-현재**: 대한신경근골격초음파학회  
+- **2018-현재**: 대한스포츠의학회  
+- **2018-현재**: 대한통증학회  
+- **2011-현재**: 대한재활의학회  
+- **2010-현재**: 대한의사협회

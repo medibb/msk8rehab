@@ -425,15 +425,13 @@ knitr::include_graphics("image/education/shoulder_CT1.png")
 ## 무릎통증의 재활운동
 
 ```{r figure 4, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/Knee.jpg")
+knitr::include_graphics("image/education/knee.jpg")
 ```
 :::
 
 # 팜플렛 모음
 
 ::: panel-tabset
-고신대학교 복음병원 근골격계 재활 팜플렛
-
 ## 경부통
 
 ```{r, echo=FALSE, fig.align='center', out.width = '100%'}
@@ -443,12 +441,6 @@ knitr::include_graphics("image/education/neck.jpg")
 ## 요통
 
 ::: panel-tabset
-### 자세관리
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/LBP.jpg")
-```
-
 ### 백년허리 - 좋은운동
 
 ```{r, echo=FALSE, fig.align='center', out.width = '100%'}
