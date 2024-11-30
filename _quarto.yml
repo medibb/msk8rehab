@@ -8,7 +8,8 @@ website:
     brand:
       href: index.qmd
     left:
-      - text: 근골격재활프로토콜
+      - icon: person-walking
+        text: 근골격재활프로토콜
         href: materials.qmd
       - icon: book-half
         text: 외래운동교육
