@@ -1,7 +1,7 @@
 ---
-title: '2024 환자 교육자료'
+title: '2025 외래교육자료'
 author: '재활의학과 이재현'
-date: '2024-05-20' #`r Sys.time()`
+date: '2025-01-13' #`r Sys.time()`
 format: 
   html:
     toc: true
