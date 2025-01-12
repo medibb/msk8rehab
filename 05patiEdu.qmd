@@ -53,26 +53,21 @@ knitr::include_graphics("image/education/cDer.jpg")
 <br/>
 
 <center>신경뿌리병증으로 인한 방사통 부위</center>
+
+
 :::
 
 ## 원인
 
 ::: panel-tabset
-### 손상기전
 
-목을 앞으로 구부렸을 때 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 찢어지며 발생합니다. 큰 힘을 갑자기 받아도 발생하지만, 작은 힘을 오랬동안 받아도 발생합니다.
+
+### 나쁜자세
 
 ```{r, echo=FALSE, out.width='100%',out.height='100%', fig.show='hold'}
 knitr::include_graphics("image/education/textneck.png")
 ```
 
-```{r, echo=FALSE, out.width='80%',out.height='100%', fig.align='center',fig.show='hold'}
-knitr::include_graphics("image/education/discinj1.jpg")
-```
-
-디스크에 나쁜 자세를 피하고 좋은 자세와 운동을 하는 것이 근본적인 치료입니다.
-
-### 나쁜자세
 
 목 디스크에 나쁜 자세란 척추의 '후만자세'와 머리가 몸의 중심을 벗어난 자세로서,
 
@@ -85,22 +80,31 @@ knitr::include_graphics("image/education/discinj1.jpg")
 <center>![](image/education/c_wrong1.png)</center>
 
 <center>출처: 사이언스북스 "백년목"</center>
+
+### 손상된 디스크
+목을 앞으로 구부렸을 때 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 찢어지며 발생합니다. 큰 힘을 갑자기 받아도 발생하지만, 작은 힘을 오랬동안 받아도 발생합니다.
+
+```{r, echo=FALSE, out.width='80%',out.height='100%', fig.align='center',fig.show='hold'}
+knitr::include_graphics("image/education/discinj1.jpg")
+```
+
+디스크에 나쁜 자세를 피하고 좋은 자세와 운동을 하는 것이 근본적인 치료입니다.
+
 :::
 
 ## 재활운동
 
 ::: panel-tabset
-### 0단계
-
-좋은 자세: 전만자세 유지, 고개내밀지 않기, 숙이지 않기
-
-<center>![](image/education/sagBal.png)</center>
-
 ### 1단계
-
 경부 재활 1단계: 척추위생 지키기, 스스로 머리위치 자주 확인하기, 맥켄지 신전운동, 견갑골 후인운동.
 
+척추 위생: 전만자세 유지, 고개내밀지 않기, 숙이지 않기
+<center>![](image/education/sagBal.png)</center>
+
+맥킨지 신전운동
 <center>![](image/education/cEx0.png)</center>
+
+견갑골 후인운동
 
 ### 2단계
 
@@ -128,6 +132,13 @@ knitr::include_graphics("image/education/cTfesi.jpg")
 ```
 
 팔의 힘이 중요한 정도로 떨어지거나, 다리 힘이 약해지거나 대소변 보는데 장애가 발생할 경우 수술을 고려해볼 수 있습니다.
+
+## 팜플렛
+
+```{r, echo=FALSE, fig.align='center', out.width = '100%'}
+knitr::include_graphics("image/education/neck.jpg")
+```
+
 :::
 
 ------------------------------------------------------------------------
@@ -173,25 +184,10 @@ knitr::include_graphics("image/education/lDer.jpg")
 <center>신경뿌리병증으로 인한 방사통 부위</center>
 :::
 
+
 ## 원인
 
 ::: panel-tabset
-### 손상기전
-
-허리가 앞으로 구부려 졌을 때(후만), 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 손상됩니다.
-
-때문에 적절한 전만자세를 유지하고, 잘못된 힘을 받지 않도록 척추안정성을 높이면 손상된 섬유륜은 천천히 스스로 회복되고, 통증에서 회복될 수 있습니다.
-
-::: columns
-::: {.column width="50%"}
-![](image/education/discinj3.png)
-:::
-
-::: {.column width="50%"}
-![](image/education/discinj1.jpg)
-:::
-:::
-
 ### 나쁜자세
 
 허리가 굽은 자세와 골반이 뒤로 돌아가는 자세는 수핵을 뒤로 밀어내고, 섬유륜을 위아래로 견인 시켜, 증상을 더욱 악화시킵니다.\
@@ -214,6 +210,24 @@ knitr::include_graphics("image/education/lDer.jpg")
 허리가 유연해져야 한다는 오해로 하는 **굴곡 스트레칭운동**, 허리가 약해서 강해져야 한다는 오해로 시행하는 **고강도 코어운동**이 대표적으로 잘못된 운동입니다.
 
 ![](image/education/l_wrongEx.png)
+
+
+### 손상된 디스크 
+허리가 앞으로 구부려 졌을 때(후만), 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 손상됩니다.
+
+때문에 적절한 전만자세를 유지하고, 잘못된 힘을 받지 않도록 척추안정성을 높이면 손상된 섬유륜은 천천히 스스로 회복되고, 통증에서 회복될 수 있습니다.
+
+
+::: columns
+::: {.column width="50%"}
+![](image/education/discinj3.png)
+:::
+
+::: {.column width="50%"}
+![](image/education/discinj1.jpg)
+:::
+:::
+
 :::
 
 ## 재활운동
@@ -241,7 +255,7 @@ knitr::include_graphics("image/education/lDer.jpg")
 
 <center>코어근육을 이루는 복직근, 복사근, 척추기립근근(Lordosis).</center>
 
-### 일상생활 습관 교정
+### 일상생활동작 교정
 
 요추전만과 복부고정을 습관화한 채 일상생활을 수행하여 허리의 손상을 예방하고 통증에서 벗어나기 위한 주의사항을 말합니다.
 
@@ -354,7 +368,7 @@ knitr::include_graphics("image/education/lTfesi.jpg")
 :::
 :::
 
-### 재활운동
+### 재활운동 - 개요
 
 다음과 같은 순서로 이루어지며, 물리치료실에서 교육이 진행됩니다.
 
@@ -381,14 +395,30 @@ knitr::include_graphics("image/education/lTfesi.jpg")
 -   운동: Wall roll, wall ball clock, blackburn
 
 -   개요: 튼튼하고 유연한 견갑골이 지지해주는 것을 바탕으로 갓 회복한 회전근개를 강화하여 손상 위험에서 벗어납니다.
+
+### 재활운동 - SSE 1단계
+
+```{r, echo=FALSE, fig.align='center', out.width = '100%'}
+knitr::include_graphics("image/education/RC.jpg")
+```
+
 :::
 
-## 유착성 관절낭염
+## 동결견 (오십견)
+
+::: panel-tabset
+### 오십견
 
 ```{r figure 3-1, echo=FALSE, fig.align='center', out.width = '100%'}
 knitr::include_graphics("image/education/ACs.jpg")
-knitr::include_graphics("image/education/AC.jpg")
 ```
+
+### 오십견 운동
+
+```{r, echo=FALSE, fig.align='center', out.width = '100%'}
+knitr::include_graphics("image/education/frozen.jpg")
+```
+:::
 
 ## 회전근개 석회성 힘줄염
 
@@ -410,75 +440,21 @@ knitr::include_graphics("image/education/shoulder_CT1.png")
 
 무릎 통증의 흔한 원인은 생리적과사용으로 인한 스트레스, 퇴행성관절염, 활액막염, 그 외 원인으로 인한 관절염 등이 있을 수 있습니다.
 
-## 생리적과사용 스트레스
+<font size = 4> **생리적과사용 스트레스**</font>
 
 무릎 관절에 힘이 많이 가해져서 뼈에 스트레스가 가해진 상태. 대사 증가와 미세골절이 있어 통증에 민감해진 상태
 
-## 퇴행성관절염
+<font size = 4> **퇴행성관절염**</font>
 
 무릎관절의 연골의 손상, 뼈의 골극 형성, 관절공간의 감소로 특징되는 질환. 오랜시간 동안 반복된 손상이 누적되어 보이는 것
 
-## 활액막염
+<font size = 4> **활액막염**</font>
 
 무릎관절 내부 구조물의 손상이 유발하는 관절 활액막의 염증 통증에 민감한 조직이라 심한 통증을 만들고, 구조적 손상없이도 주된 통증의 원인이 되기도함. 심한 경우 스테로이드 주사가 치료 효과가 있다.
 
 ## 무릎통증의 재활운동
 
 ```{r figure 4, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/knee.jpg")
-```
-:::
-
-# 팜플렛 모음
-
-::: panel-tabset
-## 경부통
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/neck.jpg")
-```
-
-## 요통
-
-::: panel-tabset
-### 백년허리 - 좋은운동
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/hundredyear1.jpg")
-```
-
-### 백년허리 - 나쁜운동
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/hundredyear2.jpg")
-```
-:::
-
-## 어깨
-
-::: panel-tabset
-### 오십견
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/ACs.jpg")
-```
-
-### 오십견 운동
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/frozen.jpg")
-```
-
-### 회전근개 손상 재활 운동
-
-```{r, echo=FALSE, fig.align='center', out.width = '100%'}
-knitr::include_graphics("image/education/RC.jpg")
-```
-:::
-
-## 무릎
-
-```{r , echo=FALSE, fig.align='center', out.width = '100%'}
 knitr::include_graphics("image/education/knee.jpg")
 ```
 :::
