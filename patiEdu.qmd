@@ -53,21 +53,16 @@ knitr::include_graphics("image/education/cDer.jpg")
 <br/>
 
 <center>신경뿌리병증으로 인한 방사통 부위</center>
-
-
 :::
 
 ## 원인
 
 ::: panel-tabset
-
-
 ### 나쁜자세
 
 ```{r, echo=FALSE, out.width='100%',out.height='100%', fig.show='hold'}
 knitr::include_graphics("image/education/textneck.png")
 ```
-
 
 목 디스크에 나쁜 자세란 척추의 '후만자세'와 머리가 몸의 중심을 벗어난 자세로서,
 
@@ -82,6 +77,7 @@ knitr::include_graphics("image/education/textneck.png")
 <center>출처: 사이언스북스 "백년목"</center>
 
 ### 손상된 디스크
+
 목을 앞으로 구부렸을 때 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 찢어지며 발생합니다. 큰 힘을 갑자기 받아도 발생하지만, 작은 힘을 오랬동안 받아도 발생합니다.
 
 ```{r, echo=FALSE, out.width='80%',out.height='100%', fig.align='center',fig.show='hold'}
@@ -89,19 +85,21 @@ knitr::include_graphics("image/education/discinj1.jpg")
 ```
 
 디스크에 나쁜 자세를 피하고 좋은 자세와 운동을 하는 것이 근본적인 치료입니다.
-
 :::
 
 ## 재활운동
 
 ::: panel-tabset
 ### 1단계
+
 경부 재활 1단계: 척추위생 지키기, 스스로 머리위치 자주 확인하기, 맥켄지 신전운동, 견갑골 후인운동.
 
 척추 위생: 전만자세 유지, 고개내밀지 않기, 숙이지 않기
+
 <center>![](image/education/sagBal.png)</center>
 
 맥킨지 신전운동
+
 <center>![](image/education/cEx0.png)</center>
 
 견갑골 후인운동
@@ -138,7 +136,6 @@ knitr::include_graphics("image/education/cTfesi.jpg")
 ```{r, echo=FALSE, fig.align='center', out.width = '100%'}
 knitr::include_graphics("image/education/neck.jpg")
 ```
-
 :::
 
 ------------------------------------------------------------------------
@@ -184,7 +181,6 @@ knitr::include_graphics("image/education/lDer.jpg")
 <center>신경뿌리병증으로 인한 방사통 부위</center>
 :::
 
-
 ## 원인
 
 ::: panel-tabset
@@ -211,12 +207,11 @@ knitr::include_graphics("image/education/lDer.jpg")
 
 ![](image/education/l_wrongEx.png)
 
+### 손상된 디스크
 
-### 손상된 디스크 
 허리가 앞으로 구부려 졌을 때(후만), 힘을 받으면 수핵이 뒤로 탈출되거나 수핵이 뒤로 밀리면서 섬유륜이 손상됩니다.
 
 때문에 적절한 전만자세를 유지하고, 잘못된 힘을 받지 않도록 척추안정성을 높이면 손상된 섬유륜은 천천히 스스로 회복되고, 통증에서 회복될 수 있습니다.
-
 
 ::: columns
 ::: {.column width="50%"}
@@ -227,7 +222,6 @@ knitr::include_graphics("image/education/lDer.jpg")
 ![](image/education/discinj1.jpg)
 :::
 :::
-
 :::
 
 ## 재활운동
@@ -401,7 +395,6 @@ knitr::include_graphics("image/education/lTfesi.jpg")
 ```{r, echo=FALSE, fig.align='center', out.width = '100%'}
 knitr::include_graphics("image/education/RC.jpg")
 ```
-
 :::
 
 ## 동결견 (오십견)
